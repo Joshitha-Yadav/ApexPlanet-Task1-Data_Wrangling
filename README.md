@@ -10,7 +10,6 @@ You can download the dataset from the following Google Drive link:
 **Google Drive:**  
 [https://drive.google.com/your-google-drive-link](https://drive.google.com/file/d/1nPZJGQeQS-lkIMOXxgu87Qe2tlE9njAH/view?usp=sharing)
 
-> **Note:** Replace the above link with your actual shared Google Drive URL.
 
 ## File Information
 
@@ -28,7 +27,6 @@ task1_wrangling/
 ├── cleaned_retail.csv
 ├── clean_data.py
 ├── data_dictionary.md
-├── task1.mp4
 └── DATASET.md
 ```
 
